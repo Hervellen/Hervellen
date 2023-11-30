@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Hervellen Maximiano 👋
 
-<!--
-**Hervellen/Hervellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 🚀
+ I'm a web developer. And I'm always studying looking for my professional development
 
-Here are some ideas to get you started:
+#### Current stack
+- 🌐 Main Language: `Javascript`
+- 📡 Backand: `Node.js`
+- ⚡️ Frontend: `HTML5`, `CSS3`, `Javascript`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- 📧 Email: hervellen.maximiano@gmail.com
+- 👩🏻‍💻 Linkedin: https://www.linkedin.com/in/hervellen-maximiano/
